@@ -58,7 +58,7 @@ function BoardingPass({ reference }) {
 
                                         <div className='flex justify-between'>
                                             <div className='mt-[50px] ml-[30px] mb-[40px]'>
-                                                <QRCode value="https://reactjs.org/" size="140" renderAs="canvas" />
+                                                <QRCode value="https://boarding-pass-react-js.vercel.app/Pass" size="140" renderAs="canvas" />
                                             </div>
 
                                             <div className='mt-[60px]'>
@@ -132,7 +132,7 @@ function BoardingPass({ reference }) {
 
                                     <div className='flex justify-between'>
                                         <div className='mt-[10px] ml-[20px] mb-[40px]'>
-                                            <QRCode value="https://reactjs.org/" size="100" renderAs="canvas" />
+                                            <QRCode value="https://boarding-pass-react-js.vercel.app/Pass" size="100" renderAs="canvas" />
                                         </div>
 
                                         <div className='mt-[20px] mr-[50px]'>

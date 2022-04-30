@@ -76,7 +76,7 @@ function QrCode() {
                         </div>
                     </div>
                     <div class="qr">
-                        <QRCode style={{marginTop:"30px"}} value="http://localhost:3000/Pass" size="200" renderAs="canvas" />
+                        <QRCode style={{marginTop:"30px"}} value="https://boarding-pass-react-js.vercel.app/Pass" size="200" renderAs="canvas" />
                     </div>
                 </section>
             </div>
