@@ -10,8 +10,8 @@ function BoardingPass({ reference }) {
 
                     <table className='w-[100%]' >
                         <tr>
-                            <th className='border-2 border-gray-900 text-left w-[70%] h-[50px] '><p className='ml-[20px] text-blue-700'>Boarding Pass</p></th>
-                            <th className='border-2 border-gray-900 text-left '><p className='ml-[20px] text-blue-700'>Your Deaparture Terminal</p></th>
+                            <th className='border-2 border-gray-900 text-left w-[70%] h-[50px] '><p className='ml-[20px] '>Boarding Pass</p></th>
+                            <th className='border-2 border-gray-900 text-left '><p className='ml-[20px] '>Your Deaparture Terminal</p></th>
 
                         </tr>
                         <tr>
@@ -70,6 +70,12 @@ function BoardingPass({ reference }) {
                                                 <div className='flex justify-between'>
                                                     <p>Seq - </p>
                                                     <p className='font-bold'>0001</p>
+                                                </div>
+
+                                                
+                                                <div className='flex justify-between'>
+                                                    <p>Seat - </p>
+                                                    <p className='font-bold'>15E</p>
                                                 </div>
 
                                             </div>
