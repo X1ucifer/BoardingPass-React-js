@@ -6,7 +6,7 @@ function BoardingPass({ reference }) {
     return (
         <>
             <div ref={reference} >
-                <div className=' mt-[40px] w-[60%] main1 h-[60vh] ml-[auto] mr-[auto]'>
+                <div className=' mt-[40px] w-[60%] main1 h-[60vh] ml-[auto] mr-[auto] detail1'>
 
                     <table className='w-[100%]' >
                         <tr>

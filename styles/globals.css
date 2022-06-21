@@ -11,6 +11,13 @@
     .print{
         display: none;
     }
+
+    .detail1{
+      display: none;
+  }
+  .column1{
+      display: inline;
+  }
 }
 
 @media only screen and (max-width: 600px) {
