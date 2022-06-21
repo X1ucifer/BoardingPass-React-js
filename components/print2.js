@@ -6,7 +6,7 @@ import QRCode from 'qrcode.react';
 function Print2() {
     return (
         <div className='mb-[40px]  column1 hidden column1'>
-            <div className='w-[210px] relative h-[890px] border-[2px] border-black ml-[auto] mr-[auto]'>
+            <div className='w-[210px] relative h-[890px]  ml-[auto] mr-[auto]'>
                 <div className=' absolute left-[1%]'>
 
                     <div className=''>
