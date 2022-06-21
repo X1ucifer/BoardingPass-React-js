@@ -11,7 +11,7 @@ function Print2() {
 
                     <div className=''>
 
-                        <QRCode value="https://boarding-pass-react-js.vercel.app/Pass" size="222" renderAs="canvas" />
+                        <QRCode value="https://boarding-pass-react-js.vercel.app/Pass" size="218" renderAs="canvas" />
 
                     </div>
                     <div className=''>
@@ -108,7 +108,7 @@ function Print2() {
 
                     <div className=''>
 
-                        <QRCode value="https://boarding-pass-react-js.vercel.app/Pass" size="222" renderAs="canvas" />
+                        <QRCode value="https://boarding-pass-react-js.vercel.app/Pass" size="218" renderAs="canvas" />
 
 
                     </div>
