@@ -11,7 +11,8 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <QrCode/>
+      {/* <QrCode/> */}
+      <img src="qr.jpeg"></img>
 
     </div>
   )
